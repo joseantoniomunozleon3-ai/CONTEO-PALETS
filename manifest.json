@@ -1,0 +1,26 @@
+{
+  "name": "Control de Pallets — SAT GUADEX",
+  "short_name": "Pallets",
+  "description": "Control de pallets confeccionados por pedido",
+  "start_url": "/CONTEO-PALETS/index.html",
+  "scope": "/CONTEO-PALETS/",
+  "display": "standalone",
+  "background_color": "#0f1117",
+  "theme_color": "#f0a500",
+  "orientation": "portrait-primary",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/CONTEO-PALETS/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/CONTEO-PALETS/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
